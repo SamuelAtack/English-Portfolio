@@ -2,7 +2,26 @@
 {"dg-publish":true,"permalink":"/english/introduction/","tags":["gardenEntry"]}
 ---
 
-
+- **Photography and Cinematography**
+	- *Barbie*
+		- [[English/Photography and Cinematography/Barbie/Barbie and Mattel - outline\|Barbie and Mattel - outline]]
+		- [[English/Photography and Cinematography/Barbie/Barbie and Mattel - article\|Barbie and Mattel - article]]
+		- [[English/Photography and Cinematography/Barbie/Barbie - Mise en scène\|Barbie - Mise en scène]]
+	- *Sara Rahbar*
+		- [[English/Photography and Cinematography/Sara Rahbar/Sara Rahbar - reflection\|Sara Rahbar - reflection]]
+	- *Ugur Gallenkus*
+		- [[English/Photography and Cinematography/Ugur Gallenkus/A bombed house\|A bombed house]]
+- **Litterature**
+	- *Jane Eyre*
+		- [[English/Litterature/Jane Eyre/Jane Eyre - Reading guide\|Jane Eyre - Reading guide]]
+		- [[English/Litterature/Jane Eyre/Debate - Rochester's role\|Debate - Rochester's role]]
+	- *Persepolis*
+		- [[English/Litterature/Persepolis/Persepolis - identity\|Persepolis - identity]]
+- **Internal Oral**
+	- [[English/IO/IO outline\|IO outline]]
+	- [[English/IO/IO practice\|IO practice]]
+- **Other**
+	- [[English/Word\|Word]]
 ---
 
 **What are the different ways in which people are affected by texts?** 
