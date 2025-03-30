@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/english/photography-and-cinematography/barbie/the-crisis-of-american-men-op-ed-satire/"}
 ---
 
-**~={blue}The Crisis of American Men:=~ ~={red}How "Barbie" is the Left’s Latest Attack on Masculinity=~**
+**The Crisis of American Men: How "Barbie" is the Left’s Latest Attack on Masculinity**
 
-~={red}**By: Samuel Atack=~**
+*By: Samuel Atack*
 
 For decades, America has prided itself on raising strong, confident men; builders, warriors, fathers, and leaders. But in 2023, Hollywood decided that wasn’t acceptable anymore. Enter Greta Gerwig’s Barbie, a seemingly innocent, candy-coloured blockbuster that, beneath its glossy surface, is nothing less than an ideological takedown of masculinity itself.
 
@@ -34,7 +34,7 @@ That’s how you transform a nation.
 
   
 
-**~={red}Rationale=~**
+**Rationale**
 
 If it was not yet obvious up to this point, the inspiration for my opinion article was the American “news” outlet, Fox News. Fox News has been identified as practising biased and false reporting in favour of the Republican Party, its politicians, and conservative causes while portraying the Democratic Party in a negative light. Fox News has been characterised by critics, commentators, and researchers as a propaganda organisation and damaging to the integrity of news overall. Fox News has denied bias in its news reporting and the channel's official position is that its news reporting operates independently of its opinion journalism. The channel has knowingly endorsed false conspiracy theories to promote Republican and conservative causes.
 
