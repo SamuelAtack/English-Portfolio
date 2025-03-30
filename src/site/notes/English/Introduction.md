@@ -7,6 +7,7 @@
 		- [[English/Photography and Cinematography/Barbie/Barbie and Mattel - outline\|Barbie and Mattel - outline]]
 		- [[English/Photography and Cinematography/Barbie/Barbie and Mattel - article\|Barbie and Mattel - article]]
 		- [[English/Photography and Cinematography/Barbie/Barbie - Mise en scène\|Barbie - Mise en scène]]
+		- [[English/Photography and Cinematography/Barbie/The Crisis of American Men - Op Ed - Satire\|The Crisis of American Men - Op Ed - Satire]]
 	- *Sara Rahbar*
 		- [[English/Photography and Cinematography/Sara Rahbar/Sara Rahbar - reflection\|Sara Rahbar - reflection]]
 	- *Ugur Gallenkus*
@@ -21,7 +22,7 @@
 	- [[English/IO/IO outline\|IO outline]]
 	- [[English/IO/IO practice\|IO practice]]
 - **Other**
-	- [[English/Word\|Word]]
+	- [[English/Definitions/Word\|Word]]
 ---
 
 **What are the different ways in which people are affected by texts?** 
