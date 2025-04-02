@@ -7,7 +7,9 @@
 		- [[English/Photography and Cinematography/Barbie/Barbie and Mattel - outline\|Barbie and Mattel - outline]]
 		- [[English/Photography and Cinematography/Barbie/Barbie and Mattel - article\|Barbie and Mattel - article]]
 		- [[English/Photography and Cinematography/Barbie/Barbie - Mise en scène\|Barbie - Mise en scène]]
-		- [[English/Photography and Cinematography/Barbie/The Crisis of American Men - Op Ed - Satire\|The Crisis of American Men - Op Ed - Satire]]
+		- [[English/Photography and Cinematography/Barbie/Op Ed-The Crisis of American Men\|Op Ed-The Crisis of American Men]]
+		- [[English/Photography and Cinematography/Barbie/Op Ed - Rationale\|Op Ed - Rationale]]
+		- [[English/Photography and Cinematography/Barbie/Op Ed - ATL reflection\|Op Ed - ATL reflection]]
 	- *Sara Rahbar*
 		- [[English/Photography and Cinematography/Sara Rahbar/Sara Rahbar - reflection\|Sara Rahbar - reflection]]
 	- *Ugur Gallenkus*
