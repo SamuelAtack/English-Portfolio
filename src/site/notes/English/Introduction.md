@@ -20,6 +20,8 @@
 		- [[English/Litterature/Jane Eyre/Debate - Rochester's role\|Debate - Rochester's role]]
 	- *Persepolis*
 		- [[English/Litterature/Persepolis/Persepolis - identity\|Persepolis - identity]]
+	- *Szymbroska*
+		- [[English/Litterature/Szynbroska/11 questions on Szymbroska\|11 questions on Szymbroska]] 
 - **Internal Oral**
 	- [[English/IO/IO outline\|IO outline]]
 	- [[English/IO/IO practice\|IO practice]]
