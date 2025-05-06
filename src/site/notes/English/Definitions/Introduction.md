@@ -4,29 +4,32 @@
 
 - **Photography and Cinematography**
     - _Barbie_
-        - [Barbie and Mattel - outline](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/barbie/barbie-and-mattel-outline/)
-        - [Barbie and Mattel - article](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/barbie/barbie-and-mattel-article/)
-        - [Barbie - Mise en scène](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/barbie/barbie-mise-en-scene/)
-        - [Op Ed-The Crisis of American Men](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/barbie/op-ed-the-crisis-of-american-men/)
-        - [Op Ed - Rationale](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/barbie/op-ed-rationale/)
-        - [Op Ed - ATL reflection](https://samuel-english-portfolio.netlify.app/404)
+        - [[English/Photography and Cinematography/Barbie/Barbie and Mattel - outline\|Barbie and Mattel - outline]]
+        - [[English/Photography and Cinematography/Barbie/Barbie and Mattel - article\|Barbie and Mattel - article]]
+        - [[English/Photography and Cinematography/Barbie/Barbie - Mise en scène\|Barbie - Mise en scène]]
+        - [[English/Photography and Cinematography/Barbie/Op Ed-The Crisis of American Men\|Op Ed-The Crisis of American Men]]
+        - [[English/Photography and Cinematography/Barbie/Op Ed - Rationale\|Op Ed - Rationale]]
+        - [[English/Photography and Cinematography/Barbie/Op Ed - ATL reflection\|Op Ed - ATL reflection]]
     - _Sara Rahbar_
-        - [Sara Rahbar - reflection](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/sara-rahbar/sara-rahbar-reflection/)
+        - [[English/Photography and Cinematography/Sara Rahbar/Sara Rahbar - reflection\|Sara Rahbar - reflection]]
     - _Ugur Gallenkus_
-        - [A bombed house](https://samuel-english-portfolio.netlify.app/english/photography-and-cinematography/ugur-gallenkus/a-bombed-house/)
+        - [[English/Photography and Cinematography/Ugur Gallenkus/A bombed house\|A bombed house]]
 - **Litterature**
     - _Jane Eyre_
-        - [Jane Eyre - Reading guide](https://samuel-english-portfolio.netlify.app/english/litterature/jane-eyre/jane-eyre-reading-guide/)
-        - [Debate - Rochester's role](https://samuel-english-portfolio.netlify.app/english/litterature/jane-eyre/debate-rochester-s-role/)
+        - [[English/Litterature/Jane Eyre/Jane Eyre - Reading guide\|Jane Eyre - Reading guide]]
+        - [[English/Litterature/Jane Eyre/Debate - Rochester's role\|Debate - Rochester's role]]
     - _Persepolis_
-        - [Persepolis - identity](https://samuel-english-portfolio.netlify.app/english/litterature/persepolis/persepolis-identity/)
+        - [[English/Litterature/Persepolis/Persepolis - identity\|Persepolis - identity]]
     - _Szymbroska_
-        - [11 questions on Szymbroska](https://samuel-english-portfolio.netlify.app/english/litterature/szynbroska/11-questions-on-szymbroska/)
+        - [[English/Litterature/Szynbroska/11 questions on Szymbroska\|11 questions on Szymbroska]]
+	- *Antigone - Sophocles*
+		- [[English/Definitions/Hierarchy in Ancient Greek society\|Hierarchy in Ancient Greek society]]
+		- [[English/Definitions/On Christian Afterlife\|On Christian Afterlife]]
 - **Internal Oral**
-    - [IO outline](https://samuel-english-portfolio.netlify.app/english/io/io-outline/)
-    - [IO practice](https://samuel-english-portfolio.netlify.app/english/io/io-practice/)
+    - [[English/IO/IO outline\|IO outline]]
+    - [[English/IO/IO practice\|IO practice]]
 - **Other**
-    - [Word](https://samuel-english-portfolio.netlify.app/404)
+    - [[English/Definitions/Word\|Word]]
 
 ---
 
