@@ -23,8 +23,8 @@
     - _Szymbroska_
         - [[English/Litterature/Szynbroska/11 questions on Szymbroska\|11 questions on Szymbroska]]
 	- *Antigone - Sophocles*
-		- [[English/Definitions/Hierarchy in Ancient Greek society\|Hierarchy in Ancient Greek society]]
-		- [[English/Definitions/On Christian Afterlife\|On Christian Afterlife]]
+		- [[English/Litterature/Antigone/Hierarchy in Ancient Greek society\|Hierarchy in Ancient Greek society]]
+		- [[English/Litterature/Antigone/On Christian Afterlife\|On Christian Afterlife]]
 - **Internal Oral**
     - [[English/IO/IO outline\|IO outline]]
     - [[English/IO/IO practice\|IO practice]]
